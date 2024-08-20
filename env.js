@@ -4,7 +4,7 @@ window.settings = {
   // 站点描述
   description: '翻越 Great Firewall !!!',
   // API
-  host: '',
+  host: 'https://gfw.cgfw.uk',
   // 主题
   theme: {
     sidebar: 'light',
