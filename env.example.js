@@ -1,8 +1,8 @@
 window.settings = {
   // 站点标题
-  title: 'V2Board',
+  title: 'GFW',
   // 站点描述
-  description: 'V2Board is best',
+  description: '翻越 Great Firewall !!!',
   // API
   host: '',
   // 主题
